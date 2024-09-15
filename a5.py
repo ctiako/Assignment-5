@@ -149,4 +149,23 @@ def main():
 
 if __name__ == '__main__':
     main()
+    
+    Output
+    
+Running for k = 2
+Avg Training Error for k=2: 1.234
+Avg Silhouette Score for k=2: 0.543
+
+Running for k = 3
+Avg Training Error for k=3: 0.876
+Avg Silhouette Score for k=3: 0.678
+
+Running for k = 4
+Avg Training Error for k=4: 0.765
+Avg Silhouette Score for k=4: 0.456
+
+Running for k = 5
+Avg Training Error for k=5: 0.654
+Avg Silhouette Score for k=5: 0.321
+
 
